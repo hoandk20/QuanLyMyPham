@@ -1,0 +1,14 @@
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\bin\Debug\QuanLyMyPham.exe.config
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\bin\Debug\QuanLyMyPham.exe
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\bin\Debug\QuanLyMyPham.pdb
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\obj\Debug\QuanLyMyPham.csproj.AssemblyReference.cache
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\obj\Debug\QuanLyMyPham.FrmLogin.resources
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\obj\Debug\QuanLyMyPham.Properties.Resources.resources
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\obj\Debug\QuanLyMyPham.csproj.GenerateResource.cache
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\obj\Debug\QuanLyMyPham.csproj.CoreCompileInputs.cache
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\obj\Debug\QuanLyMyPham.exe
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\obj\Debug\QuanLyMyPham.pdb
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\obj\Debug\QuanLyMyPham.view.FrmProducts.resources
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\obj\Debug\QuanLyMyPham.view.FrmAdd.resources
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\obj\Debug\QuanLyMyPham.view.FrmRemove.resources
+C:\Users\hoand\Desktop\QuanLyMyPham\QuanLyMyPham\obj\Debug\QuanLyMyPham.view.FrmBill.resources
